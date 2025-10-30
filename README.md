@@ -18,10 +18,11 @@ The project teaches how to validate and enforce secfurity policies by checking i
 # How to use:
 
 ### Run in Google Colab
-1. Click the "Open in Colab" badge above the code
-2. Run the function definition cell
-3. Run the test cell or interactive mode cell
-4. Enter password to validate
+1. Click passwordValidation.ipynb
+2. Click the "Open in Colab" badge above
+3. Run the function definition cell
+4. Run the test cell or interactive mode cell
+5. Enter password to validate
 
 ## Examples:
 ''' Python
